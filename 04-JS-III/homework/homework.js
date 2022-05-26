@@ -240,7 +240,8 @@ function continueStatement(numero) {
       n = n + 2;
       array.push(n);
     }
-  } return array;
+  } 
+  return array;
 }
 
 
